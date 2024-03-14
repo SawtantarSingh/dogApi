@@ -1,0 +1,27 @@
+.navbar {
+  background-color: #f8e8ee !important;
+}
+.title {
+  color: black;
+}
+.section-1 {
+  background-color: #f9f5f6 !important;
+}
+.dancing-script {
+  font-family: "Dancing Script", cursive !important;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+.pacifico-regular {
+  font-family: "Pacifico", cursive !important;
+  font-weight: 400;
+  font-style: normal;
+}
+.album {
+  background-color: #f8e8ee !important;
+}
+.btn {
+  background-color: #f2bed1 !important;
+  color: white !important;
+}
